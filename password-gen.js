@@ -1,3 +1,5 @@
+//npm i check-password-strength
+
 const { passwordStrength } = require('check-password-strength')
 
 
